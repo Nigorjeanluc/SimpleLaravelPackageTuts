@@ -1,0 +1,12 @@
+{
+    "name": "yoosuf/calculator",
+    "description": "Tuts about packages from Yoosuf",
+    "authors": [
+        {
+            "name": "Ndiramiye Igor Jean Luc",
+            "email": "nigorjeanluc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
